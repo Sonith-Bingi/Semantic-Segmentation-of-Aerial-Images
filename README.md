@@ -2,8 +2,7 @@
 
 ## **About**
 
-> Semantic segmentation, with the goal to assign semantic labels to every pixel in an image, is an essential computer vision task. In this project, we use semantic segmentation models to categorize content in aerial images of Dubai into six classes.
-
+> Semantic segmentation, with the goal to assign semantic labels to every pixel in an image, is an essential computer vision task. In this project, we use semantic segmentation models to extract roads from satellite images.
 * Create custom datasets, dataloaders and transformers for semantic segmentation tasks.
 * Build semantic segmentation models to classify an image at the pixel level. Implement performance metrics to keep tracking the training process.
 * Test the model using aerial images of other cities.
